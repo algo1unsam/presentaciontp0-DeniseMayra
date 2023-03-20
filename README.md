@@ -1,26 +1,13 @@
-# Presentación
+## Estudiante: Denise Mayra Higa
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Buenas! soy Denise me dicen Denu, China, LaDe, etc :v:. 
 
-Ya saben usar git!
+Soy estudiante de Programación y actualmente trabajo como desarrolladora de Front End.
+
+Un gusto y que tengan un buen cuatri :muscle::nerd_face:
 
 
-## Estudiante: Nombre estudiante
-
-Descripción
 
 Foto de mi persona:
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
-
-Diente de Leon
-
-------
-
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
-
+![54C74101-D2C9-4D30-8836-71F42201A1F9](https://user-images.githubusercontent.com/90106044/226483978-424bfa25-e03e-4e99-b178-ae05f85c6d4e.JPG)
