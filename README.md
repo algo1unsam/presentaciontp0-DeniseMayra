@@ -2,7 +2,7 @@
 
 Buenas! soy Denise me dicen Denu, China, LaDe, etc :v:. 
 
-Soy estudiante de Programación y actualmente trabajo como desarrolladora de Front End.
+Tengo 24 años y soy estudiante de Programación, actualmente trabajo como desarrolladora de Front End.
 
 Un gusto y que tengan un buen cuatri :muscle::nerd_face:
 
